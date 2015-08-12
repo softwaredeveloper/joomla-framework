@@ -84,6 +84,8 @@ Bugs and issues found in the Joomla Framework code can be reported on the [Issue
 
 All kind of contributions are welcome. Please read about how to contribute [here](CONTRIBUTING.markdown).
 
+Contact [Joomla Programmer](https://www.phpfreelanceprogrammer.com/joomla-programmer.html)
+
 You may find tasks you can do on the [Issues](https://github.com/joomla/joomla-framework/issues) list by filtering on labels and milestones.
 
 
